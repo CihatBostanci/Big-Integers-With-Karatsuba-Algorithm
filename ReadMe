@@ -1,0 +1,19 @@
+In the beginning, divide and conquer  methods are suitable form to develop algorithms 
+that have high dimensions and needed the resolution and is the best practice to learn how to analyze understanding algorithms flows.
+In this assignment is about the evaluation of the two algorithms according to the given situation.
+Classical Binary Multiply, the other is the Given on the Assignment sheet.
+
+
+2-Development Environment
+This Project is written on CLion++  C++11 with Windows 10 Operating Sytstem. Also, 
+This application is tested  ITU SSH Server with accurately 
+but to_string () method is not suitable for SSH Server so that I omitted and create a manual binary string to show. 
+
+
+The two algorithms required for this assignment are compared in terms of time according to Number of bits. 
+The complexity of the algorithm is lower than Classical Method, and 
+we benefit from time-saving "divide and conquer" method to show how the same work done in a shorter time.  
+
+
+
+ 
