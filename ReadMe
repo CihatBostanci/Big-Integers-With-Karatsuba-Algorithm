@@ -1,6 +1,6 @@
 # Big Integers With Karatsuba Algorithm
 * [General info](#general-info)
-** [Development Environment](#development-environment)
+* [Development Environment](#development-environment)
 
 ## General info
 In the beginning, this is an assignment of ITU Algorithm Analysis Course to handle big integers multiple. So divide and conquer  methods are suitable form to develop algorithms 
@@ -9,7 +9,7 @@ In this assignment is about the evaluation of the two algorithms according to th
 Classical Binary Multiply, the other is the Karatsuba Algorithm.
 
 
-Development Environment
+## Development Environment
 This Project is written on CLion++  C++11 with Windows 10 Operating Sytstem. Also, 
 
 The two algorithms required that are compared in terms of time according to Number of bits. 
