@@ -13,6 +13,7 @@ Classical Binary Multiply, the other is the Karatsuba Algorithm.
 ## Development Environment
 This Project is written on CLion++  C++11 with Windows 10 Operating Sytstem. Also, 
 
+## Result
 The two algorithms required that are compared in terms of time according to Number of bits. 
 The complexity of the algorithm is lower than Classical Method, and 
 we benefit from time-saving "divide and conquer" method to show how the same work done in a shorter time.
